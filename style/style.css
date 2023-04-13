@@ -95,7 +95,7 @@ body {
     border-radius: 8px;
     font-family: var(--font-secundaria);
     font-weight: 600;
-    transition: 1s;
+    transition: .5s;
 }
 
 .apresentacao__links__navegacao:hover {
