@@ -102,7 +102,7 @@ body {
     background: var(--cor-hover);
     color:#FF1493;
     /*border: 5px double var(--cor-terciaria);*/
-    outline: 5px;
+    outline-style: double 5px;
 }
 
 .apresentacao__imagem {
