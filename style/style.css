@@ -101,7 +101,8 @@ body {
 .apresentacao__links__navegacao:hover {
     background: var(--cor-hover);
     color:#FF1493;
-    border: 5px double var(--cor-terciaria);
+    /*border: 5px double var(--cor-terciaria);*/
+    outline: 5px;
 }
 
 .apresentacao__imagem {
