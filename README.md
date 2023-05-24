@@ -1,4 +1,4 @@
 # portfolio
-Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
+Portfólio contruido com cursos da alura, ainda não está totalmente completo
 
 https://maagno.github.io/portfolio/
