@@ -3,7 +3,7 @@
 :root {
     --cor-primaria : #000000;
     --cor-secundaria: #F6F6F6;
-    --cor-terciaria: #22D4FD;
+    --cor-terciaria: #22fdbb;
     --cor-hover: #272727;
 
     --font-primaria: 'Krona One', sans-serif;
@@ -100,7 +100,7 @@ body {
 
 .apresentacao__links__navegacao:hover {
     background: var(--cor-hover);
-    color:#FF1493;
+    color:#CA3CFF;
     /*border: 5px double var(--cor-terciaria);*/
     outline-style: hidden 5px;
 }
@@ -116,7 +116,7 @@ body {
     text-align: center;
     font-family: var(--font-secundaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 @media (max-width: 1200px) {
